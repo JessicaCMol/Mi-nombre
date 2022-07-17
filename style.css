@@ -1,0 +1,9 @@
+.cuadro {
+    background-color: black;
+    width: 20px;
+}
+
+table {
+   display: inline-block;
+   margin: 10px;
+}
